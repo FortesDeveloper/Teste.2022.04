@@ -48,13 +48,7 @@ begin
     Conn.Close;
     Conn.Params.Clear;
     Conn.Params.LoadFromFile(f);
-{'Database=siclin_cliniccare'
-'User_Name=SA'
-'Password=123'
-'Server=192.168.15.14'
-'DriverID=MSSQL'}
   end;
-
 end;
 
 end.

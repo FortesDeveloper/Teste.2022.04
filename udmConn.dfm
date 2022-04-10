@@ -2131,14 +2131,10 @@ object dmConn: TdmConn
   end
   object Conn: TFDConnection
     Params.Strings = (
-      'Database=siclin_cliniccare'
-      'User_Name=SA'
-      'Password=123'
-      'Server=192.168.15.14'
       'DriverID=MSSQL')
     LoginPrompt = False
     Left = 36
-    Top = 23
+    Top = 22
   end
   object FDGUIxWaitCursor1: TFDGUIxWaitCursor
     Provider = 'Forms'
