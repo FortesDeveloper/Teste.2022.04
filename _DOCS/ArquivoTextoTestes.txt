@@ -1,0 +1,44 @@
+ ___________
+|           |
+|  PARTE 1  |
+|___________|
+
+1.[Lógica] Construa uma função que receba dois vetores A e B de inteiros e retorne como parâmetros de saída um vetor resultante contendo apenas os elementos repetidos de A e B.
+
+2.[Lógica] Desenvolva um programa que leia uma matriz de caracteres e verifique se dentre os caracteres da matriz lida estão todas as vogais.
+
+3.[Lógica] Desenvolva uma função receba como parâmetro uma string s e um ponteiro para um arquivo de texto. A função deve retornar o número de vezes que s ocorre no arquivo.
+
+4.[Lógica] Crie um programa que receba N números inteiros e liste quais destes números são raízes quadradas exatas entre si. Por exemplo, se durante a inserção dos valores o digitador informou os números 2 e 4, o sistema deve informar, no final da leitura dos N números inteiros que foram digitados os números 2 e 4 e que portanto, 2 é raiz quadrada exata de 4.
+
+5.[Lógica] Construa uma função que consista uma string qualquer, retornando true caso esta string contenha um valor inteiro válido ou false caso não contenha um valor inteiro válido.
+
+6.[Lógica] Crie uma função recursiva que seja capaz de calcular o fatorial de qualquer número inteiro passado como parâmetro para a função.
+
+7.[Banco de Dados] Escreva uma Stored Procedure utilizando PL/SQL ou Transact/SQL que receba duas datas como parâmetro de entrada e calcule o número de dias úteis entre as duas datas. Considere os dias úteis de segunda a sexta=feira, desprezar feriados.
+
+8.[Banco de Dados] Dada os seguintes fragmentos de tabelas (Anexo 1), crie uma instrução SQL que:
+
+a. Retorne todos os edifícios localizados no Estado de São Paulo, que contém 30 apartamentos com pelo menos dois quartos, cuja metragem mínima seja de 100m2. O resultado deve ser ordenado decrescentemente pela metragem do apartamento.
+b.Retorne qual apartamento localizado na cidade de São Paulo que possui o maior valor gasto com condomínio no ano de 2011.
+
+9.[Banco de Dados] Descreva tudo que sabe sobre Triggers
+
+Algumas Observações:
+Utilize a linguagem que você domina para a elaboração do resultado das questões.
+
+ ___________
+|           |
+|  PARTE 2  |
+|___________|
+
+Objetivo Teste Prático
+
+Construir projeto que atenda aos seguintes requisitos funcionais/não funcionais. 
+O candidato deverá entregar o código fonte e a StoredProcedure corrigida.
+
+1)	Construa um projeto utilizando a IDE que melhor conheça; (de preferência por linguagens de mercado) 
+
+2)	Formulário para Cadastro (CRUD) com Mestre Detalhe das Entidades “Edifício”, “Apartamento” e “Pagamentos Condomínio”. (As tabelas estão criadas no Banco de dados, conforme diagrama abaixo);
+
+3)	Formulário para Consulta e visualização “Ranking do Somatório de Condomínios Pagos por Apartamento (3 mais caros)” de acordo com o período informado nos parâmetros, utilizando a Stored Procedure sp_ranking_condominio. (É necessário corrigir erros na Stored Procedure);

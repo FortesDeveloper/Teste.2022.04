@@ -1,0 +1,5 @@
+Database=<BASE>
+User_Name=<USER>
+Password=<SENHA>
+Server=<SERVER_IP>
+DriverID=MSSQL

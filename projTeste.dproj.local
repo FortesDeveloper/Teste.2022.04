@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/08/27 19:45:24.000.943,=C:\Users\Rio\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/05 14:37:09.000.808,=C:\Users\Rio\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/04/05 14:38:49.000.323,C:\Teste.2022.04\untPrincipal.pas=C:\Users\Rio\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/04/05 14:38:49.000.323,C:\Teste.2022.04\untPrincipal.dfm=C:\Users\Rio\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2022/04/05 14:39:02.000.027,C:\Teste.2022.04\projTeste.dproj=C:\Users\Rio\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/04/07 12:57:42.000.639,=C:\Teste.2022.04\Unit1.pas</Transaction>
+    <Transaction>2022/04/07 12:58:14.000.904,C:\Teste.2022.04\udmConn.dfm=C:\Teste.2022.04\Unit1.dfm</Transaction>
+    <Transaction>2022/04/07 12:58:14.000.904,C:\Teste.2022.04\udmConn.pas=C:\Teste.2022.04\Unit1.pas</Transaction>
+    <Transaction>2022/04/09 20:04:43.000.187,=C:\Teste.2022.04\Unit1.pas</Transaction>
+    <Transaction>2022/04/09 20:05:18.000.876,C:\Teste.2022.04\Unit1.pas=C:\Teste.2022.04\untCRUD.pas</Transaction>
+    <Transaction>2022/04/09 20:05:18.000.876,C:\Teste.2022.04\Unit1.dfm=C:\Teste.2022.04\untCRUD.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
